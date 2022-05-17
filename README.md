@@ -1,7 +1,7 @@
-💻 Languages: Javscript, Typescript, CSS, (learning dart)
-💡 Framework: React-native, React (learning NextJs)
-💎 Website: 🚧 building 🚧
-💬 Discord: MR edo_#8127
+💻 Languages: Javscript, Typescript, CSS, (learning dart)\n
+💡 Framework: React-native, React (learning NextJs)\n
+💎 Website: 🚧 building 🚧\n
+💬 Discord: MR edo_#8127\n
 
 <!---
 MRedojs/MRedojs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

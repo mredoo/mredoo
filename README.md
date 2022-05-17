@@ -1,6 +1,6 @@
-💻 Languages: Javscript, Typescript, CSS, (learning dart)
-💡 Framework: React-native, React (learning NextJs)
-💎 Website: 🚧 building 🚧
+💻 Languages: Javscript, Typescript, CSS, (learning dart)\
+💡 Framework: React-native, React (learning NextJs)\
+💎 Website: 🚧 building 🚧\
 💬 Discord: MR edo_#8127
 
 <!---

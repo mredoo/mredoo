@@ -1,7 +1,9 @@
+```csharp
 💻 Languages: Javscript, Typescript, CSS, (learning dart)\
 💡 Frameworks: React-native, React (learning NextJs)\
 💎 Website: 🚧 building 🚧\
 💬 Discord: MR edo_#8127
+```
 
 <!---
 MRedojs/MRedojs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 ```csharp
-💻 Languages: Javascript, Typescript, CSS, (learning dart)
+💻 Languages: Javascript, Typescript (just the basics), CSS, (learning dart)
 💡 Frameworks: React-native, React (learning NextJs)
 💎 Website: 🚧 building 🚧
 💬 Discord: MR edo_#8127
